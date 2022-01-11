@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![Hotei.gf](assets/images/bigmood-sesshin001.gif)
+![Hotei.gf](assets/images/assets/images/unnamed.gif)  
+
 
 | Sesshin Notes | Date |
 | --- | --- |
