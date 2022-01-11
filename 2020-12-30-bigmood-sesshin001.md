@@ -15,7 +15,7 @@ Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@Nif
 I'm going to be sharing some songs here that make up the sound track of my life and I think you just might dig them too.  So we're gonna kick things off tonight with a mic check of some vintage Tribe Called Quest, can I kick it? Yes I can. Here's _**Buggin Out**_, let's goooo!🚀
 
 ...(_played first three tracks of this YouTube Playlist:_)  
-<!-- more -->  
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLfvyalrCJ86rLf8wrft2QxKL1_j3kZQqC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
@@ -29,7 +29,7 @@ Anyways, the Inside Your Arms track really speaks to me and this moment...beacau
 
 ok lets get back to some jams  
 
-...(_played next three tracks)
+...(_played next three tracks_)
 
 <p align="center">
   <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part2-light.png" alt="part 2" />  
