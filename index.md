@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Hotei.gf](assets/images/assets/images/unnamed.gif)  
+![Gif](assets/images/unnamed.gif)  
 
 
 | Sesshin Notes | Date |
