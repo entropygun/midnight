@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![Gif](assets/images/unnamed.gif)  
+![test image size](assets/images/unnamed.gif){:height="50%" width="50%"}
+![Gif](assets/images/unnamed.gif "Gif")  
 
 
 | Sesshin Notes | Date |
