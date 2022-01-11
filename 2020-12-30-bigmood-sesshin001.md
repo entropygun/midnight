@@ -1,17 +1,13 @@
 ---
 layout: default
 ---
+![Hotei gif](assets/images/bigmood-sesshin001.gif "Hotei gif")
 
-<p align="center">
-  <img src="https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/intro-light.png" alt="intro" />
-</p>  
-  
+![intro](assets/images/intro-light.png "intro")  
 Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.  
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
 
-<p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part1-light.png" alt="part 1" />  
-</p>
+![Part 1](assets/images/part1-light.png "Part1")  
 I'm going to be sharing some songs here that make up the sound track of my life and I think you just might dig them too.  So we're gonna kick things off tonight with a mic check of some vintage Tribe Called Quest, can I kick it? Yes I can. Here's _**Buggin Out**_, let's goooo!🚀
 
 ...(_played first three tracks of this YouTube Playlist:_)  
@@ -31,9 +27,7 @@ ok lets get back to some jams
 
 ...(_played next three tracks_)
 
-<p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part2-light.png" alt="part 2" />  
-</p>
+![part 2](assets/images/part2-light.png "Part 2")  
 Now a word from our sponsors, psyche we don't have any sponsors, all we have is the stoke with this nascent little community here at [NiftyRecordsNFT](https://www.niftyrecordsnft.com), tell your friends to come check it out
 
 **Track 6:** You just heard **Sun is Shing by Bob Marley vs Funkstar De Luxe (Funkstars club mix)** because well I'm a rainbow too! Also fun fact I don't remember when I picked up this track but it was back in the Napster peer-to-peer sharing era where we all just carelessly shared our collections and downloaded every mp3 we could find to burn onto CD-Roms... holy moly that was a lot of effort, but it is fitting that the block-chain was built off the ruins of those early peer-to-peer networks, they don't call it that anymore, these days they're calling it decentralized, but it's the same thing
@@ -46,9 +40,7 @@ ok let's back to the music
 
 ...(_played next three tracks_)  
 
-<p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part3-light.png" alt="3" />  
-</p>  
+![Part 3](assets/images/part3-light.png "Part 3")  
 Alrighty if you're still here or just joining, this is entropygun and thanks for listening to my very first live bigmood-sesshin here on the NiftyRecords community Discord server.  
 
 **Track 9:** You just heard **Stereo Hearts by Gym Class Heros featuring Adam Levine**. This track really hits me right where it counts and the video doesn't disappoint either...  _All I ask is that you don't get mad at me, when you gotta purchase mad D batteries_! Haha
@@ -67,10 +59,7 @@ but right now let’s listen to one more jam before we wrap things up
 
 ---
 
-<p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/colophon-eg_light.png" alt="colophon" />  
-</p>
-
+![Colophon](assets/images/colophon-eg_light.png "Colophon")  
 **SOME OF THE THINGS THAT HELPED KICK OFF THIS INAUGRAL SESSHIN:**  
 another stormy night in Atlanta; Nifty Records NFT community on Discord; Monroe; DayDream; BabyLove; Ginger's reluctant and impatient Discord tech support - after all that just needed to disable the noise supression; Rasklfish; Minabug; Rufferito Bandito; CoachMike; SeanMillsArtist; theMakerStation, Dr. Shook, Hannah the intern; Viktor the volunteer; Dōgen; Budia; Saint Expeditus; random artists on the internet (_that are like faint flickering candles burning a little light into our lives_); juggling half a dozen music streaming services's free trial premium subscriptions (_only to find each missing a critical track in their own unique way_); a highly curated Pandora Music station (_that can not be replicated, it's like non fungible or something_); #beingbret's friends&family group chat updates on his post-surgery recovery; pints of cold brew coffee from Apotheos Roastery (_their Adventurer pecan flavored stuff_); Nespresso original-line Shanghai Lungo pours (_with a dash of hazelnut flavored almond milk_); kitchen-ground local roasted coffee beans in the moka pot; Baby Love's epic ginger bread cookies; LaCroix Pamplemousse fizzy water for hipsters; Sanpellegrino Aranciata Rosa (_it's fizzy blood orange!_); the 'dead week' between Christmas and New Year's; unlimited PTO for that elusive work-life-balance; mid-life crises; mental health days; self care; talking to myself as I try to figure it out; A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld; getting lost in my Relanote Graph; and Seeking refuge in the Buddha, the Dahrma, and the Sangha 🙏  
 [< YouTube Playlist for bigmood sesshins001 >](https://youtube.com/playlist?list=PLfvyalrCJ86rLf8wrft2QxKL1_j3kZQqC) 
