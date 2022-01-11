@@ -3,14 +3,14 @@ layout: default
 ---
 
 <p align="center">
-  <img src="https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/intro-light.png" />
+  <img src="https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/intro-light.png" alt="intro" />
 </p>  
   
 Ahoy hoy! This is [@entropygun](https://discord.gg/4FgUScNF23) here on the [@NiftyRecordsNFT](https://niftyrecordsnft.com) community discord server running with an idea I tossed out on the `#ideas channel` and I have a bad habit of letting my big mouth get me in trouble so here I am hoping to not screw this up and if works I’ll be minting some artifacts to commemorate this event.  
 ![NiftyRecordsNFT Header img](assets/images/Social_Header_Small.jpeg "NiftyRecordsNFT")
 
 <p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part1-light.png" />  
+  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part1-light.png" alt="part 1" />  
 </p>
 I'm going to be sharing some songs here that make up the sound track of my life and I think you just might dig them too.  So we're gonna kick things off tonight with a mic check of some vintage Tribe Called Quest, can I kick it? Yes I can. Here's _**Buggin Out**_, let's goooo!🚀
 
@@ -32,7 +32,7 @@ ok lets get back to some jams
 ...(_played next three tracks)
 
 <p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part2-light.png" />  
+  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part2-light.png" alt="part 2" />  
 </p>
 Now a word from our sponsors, psyche we don't have any sponsors, all we have is the stoke with this nascent little community here at [NiftyRecordsNFT](https://www.niftyrecordsnft.com), tell your friends to come check it out
 
@@ -47,7 +47,7 @@ ok let's back to the music
 ...(_played next three tracks_)  
 
 <p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part3-light.png" />  
+  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/part3-light.png" alt="3" />  
 </p>  
 Alrighty if you're still here or just joining, this is entropygun and thanks for listening to my very first live bigmood-sesshin here on the NiftyRecords community Discord server.  
 
@@ -68,7 +68,7 @@ but right now let’s listen to one more jam before we wrap things up
 ---
 
 <p align="center">
-  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/colophon-eg_light.png" />  
+  <img src = "https://github.com/entropygun/midnight/blob/ddc18a07ae09b11e0db3baeaa17aed2e934b5ac6/assets/images/colophon-eg_light.png" alt="colophon" />  
 </p>
 
 **SOME OF THE THINGS THAT HELPED KICK OFF THIS INAUGRAL SESSHIN:**  
